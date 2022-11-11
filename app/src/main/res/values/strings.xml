@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Criminal_Intent_Sav</string>
+    <srting name="crime_title_hint">Enter a title for the crime</srting>
+    <string name="crime_title_label">Title</string>
+    <strimg nmae="Crime_details_label">Details</strimg>
+    <string name="xrime_solved_label">Solved</string>
+</resources>
