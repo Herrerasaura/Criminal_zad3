@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Exam/Criminal_Intent_Sav/app/src/main/res/layout/activity_main.xml" value="0.28306159420289856" />
+        <entry key="..\:/Exam/Criminal_Intent_Sav/app/src/main/res/layout/fragment_crime.xml" value="0.28306159420289856" />
+        <entry key="..\:/Exam/Criminal_Intent_Sav/app/src/main/res/layout/fragment_crime_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/Exam/Criminal_Intent_Sav/app/src/main/res/layout/list_item_crime.xml" value="0.20520833333333333" />
         <entry key="..\:/Exam/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Exam/app/src/main/res/layout/fragment_crime.xml" value="0.2957427536231884" />
         <entry key="..\:/Exam/app/src/main/res/layout/fragment_file.xml" value="0.2957427536231884" />

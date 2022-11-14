@@ -23,13 +23,13 @@
             android:id="@+id/crime_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/crime_title_hint"
+            android:text="@string/crime_title_label"
             tools:ignore="MissingConstraints" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/crime_details"
+            android:text="@string/crime_title_label"
             tools:ignore="MissingConstraints" />
 
         <Button
